@@ -1,0 +1,1 @@
+go run main.go http://recruit.co.jp/ http://recruit-tech.co.jp

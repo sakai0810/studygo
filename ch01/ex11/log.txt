@@ -1,0 +1,10 @@
+2.48s    11181  http://google.com/
+2.49s   107948  http://nicovideo.jp/
+2.58s    19847  http://yahoo.co.jp/
+2.96s   310964  http://facebook.com/
+4.21s   572158  http://youtube.com/
+0.12s    11253  http://google.com/
+0.13s   107911  http://nicovideo.jp/
+0.18s    19847  http://yahoo.co.jp/
+0.71s   315227  http://facebook.com/
+1.81s   554868  http://youtube.com/

@@ -1,0 +1,1 @@
+go run ../ex10/main.go http://google.com/ http://youtube.com/ http://yahoo.co.jp/ http://facebook.com/ http://nicovideo.jp/
